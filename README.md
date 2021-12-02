@@ -97,3 +97,6 @@ Our main sources :
 - Lekshmi Prabha
 - Vilaysack Khonsavanh
 
+#### Contact Info
+* [Linkedin Link](https://www.linkedin.com/in/tamasree-sinha/)
+* emailid : tamasree.g@gmail.com
