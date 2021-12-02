@@ -99,4 +99,4 @@ Our main sources :
 
 #### Contact Info
 * [Linkedin Link](https://www.linkedin.com/in/tamasree-sinha/)
-* emailid : tamasree.g@gmail.com
+* email id : tamasree.g@gmail.com
